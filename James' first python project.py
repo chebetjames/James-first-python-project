@@ -1,36 +1,4 @@
-import time
 
-print('Hey, there')
-money=2000
-if money<2000:
-    print('need to save more')
-elif money>=2000:
-    print('buy mac os')
-print('   / |')
-print('  /  |')
-print(' /   |')
-print('/____|')
-character_age = 145
-character_name = 'James'
-is_male = True
-print(character_name +  ' is a web dev')
-print('He loves writing code using the pycharm IDE' + ',' + ' he is' + str(character_age) +' years old' + '.')
-print(type(character_name))
-print(type(character_age))
-phrase = 'Joel'
-print(phrase + ' is his brother')
-print(phrase.upper())
-print(phrase.islower())
-print(phrase.upper().isupper())
-print(len(character_name))
-print(phrase[0])
-print(character_name.index('s'))
-print(character_name.replace('James', 'Allan'))
-print(6 % 2)
-my_num = 7
-print(pow(my_num, 3))
-print(abs(character_age))
-print(round(character_age))
 
 from math import *
 
