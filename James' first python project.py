@@ -1,16 +1,4 @@
 
-
-from math import *
-
-print(floor(character_age))
-print(ceil(character_age))
-print(sqrt(my_num))
-name = input('Enter your name: ')
-age = input('Enter your age: ')
-print('Hey '  + name)
-print('You are ' + age)
-
-
 num1 = input('Enter number 1: ')
 num2 = input('Enter number 2: ')
 result = float(num1) + float(num2)
